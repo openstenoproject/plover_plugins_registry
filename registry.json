@@ -6,6 +6,7 @@
   "plover-clippy",
   "plover-console-ui",
   "plover-current-time",
+  "plover-debugging-console",
   "plover-dict-commands",
   "plover-dictionary-builder",
   "plover-digitalcat-dictionary",
