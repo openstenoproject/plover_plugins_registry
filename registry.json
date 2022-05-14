@@ -14,6 +14,7 @@
   "plover-delay",
   "plover-dict-commands",
   "plover-dictionary-builder",
+  "plover-dictionary-patch",
   "plover-digitalcat-dictionary",
   "plover-eclipse-dictionary",
   "plover-emoji",
