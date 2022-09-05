@@ -74,6 +74,7 @@
   "plover-uinput-output",
   "plover-unused-xtest-output",
   "plover-vcs-plugin",
+  "plover_vim",
   "plover-vlc-commands",
   "plover-windows-brightness",
   "plover-word-tray",
