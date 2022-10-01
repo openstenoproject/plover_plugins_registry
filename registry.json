@@ -10,6 +10,7 @@
   "plover-combo",
   "plover-comment",
   "plover-console-ui",
+  "plover-controller",
   "plover-current-time",
   "plover-debugging-console",
   "plover-delay",
