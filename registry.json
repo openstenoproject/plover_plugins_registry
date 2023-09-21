@@ -31,6 +31,7 @@
   "plover-json-lazy",
   "plover-last-translation",
   "plover-layout-display",
+  "plover-local-env-var",
   "plover-maajik",
   "plover-markdown-dictionary",
   "plover-melani",
