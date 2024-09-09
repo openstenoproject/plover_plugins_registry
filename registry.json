@@ -13,6 +13,7 @@
   "plover-console-ui",
   "plover-controller",
   "plover-current-time",
+  "plover-cycle-translations",
   "plover-debugging-console",
   "plover-delay",
   "plover-dict-commands",
