@@ -80,6 +80,7 @@
   "plover-splits",
   "plover-start-words",
   "plover-startup-py",
+  "plover-steno-engine-hooks-logger",
   "plover-stenobee",
   "plover-stenograph",
   "plover-stenohid-test",
