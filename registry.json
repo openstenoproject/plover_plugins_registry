@@ -35,6 +35,7 @@
   "plover-json-lazy",
   "plover-lapwing-aio",
   "plover-last-translation",
+  "plover-listening-lookup",
   "plover-local-env-var",
   "plover-maajik",
   "plover-markdown-dictionary",
