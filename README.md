@@ -1,10 +1,10 @@
 # Plover Plugins Registry
 
-The list of plugins that will show in the Plover Plugins Manager.
+This repo contains the list of plugins that will show in the Plover Plugins Manager.
 
-In order for your [Plover](https://github.com/openstenoproject/plover) plugin to be installable
-from the [plugins manager](https://github.com/benoit-pierre/plover_plugins_manager), it must be
-listed here.
+In order for your [Plover](https://github.com/openstenoproject/plover) plugin to be installable from the Plugins Manager, it must be listed in [registry.json](registry.json).
+
+If a plugin is incompatible with a newer Plover version, it will be listed in [unsupported.json](unsupported.json) — a JSON dictionary mapping plugins to the earliest unsupported major Plover version.
 
 ## Contributing
 
