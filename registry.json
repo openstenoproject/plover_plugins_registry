@@ -107,5 +107,7 @@
   "plover-wpm-meter",
   "plover-xtest-input",
   "plover-yaml-dictionary",
-  "spectra-lexer"
+  "spectra-lexer",
+  "plover-split-at-apostrophe",
+  "plover-cycle-homophones"
 ]
